@@ -248,7 +248,7 @@ public void testPost() throws IOException {
 
 尝试访问昨天编写的接口：http://localhost/hello
 
-这个接口返回一个User对象
+这接口返回一个User对象
 
 ```java
 @Test
